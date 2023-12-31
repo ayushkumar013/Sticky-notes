@@ -9,4 +9,4 @@ There is an thrash button too on notes at bottom right clicking on that will del
 *REMEMBER KEYS -> HOME , END , DELETE*
 
 ![image](https://github.com/ayushkumar013/Sticky-notes/assets/145747837/25e1cdd2-ec67-4261-a050-c6f3f6b5cebb)
-]
+
